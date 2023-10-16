@@ -1,0 +1,58 @@
+.inicio{
+    background-color: gold;
+}
+
+body{
+    background-color: black;
+    
+}
+
+p {
+    margin-bottom: 20px; 
+    padding: 10px; 
+}
+h2,h4{
+    color: white;
+}
+
+li{
+    color: white;
+    
+}
+
+
+p1{
+    color: white;
+}
+
+.lead{
+    
+    color: black;
+}
+
+.nav-link{
+    color: black;
+}
+img{
+    border-radius: 5%;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline;
+    margin: 0 10px;
+}
